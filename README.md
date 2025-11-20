@@ -1,1 +1,3 @@
 # job-success-clean
+C:\Users\theod\Projects\job-success-clean-engine\lombok.jar
+C:\Users\theod\Projects\job-success-clean-engine\src\main\java\...
